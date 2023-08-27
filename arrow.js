@@ -18,6 +18,7 @@ const add2 = function(a, b){
 // third mention arrow sign =>
 // fourth do the operation
 // no return needed
+// its a ES6 function
 const add3 = (a, b) => a + b;
 console.log(add3(3, 3));
 
